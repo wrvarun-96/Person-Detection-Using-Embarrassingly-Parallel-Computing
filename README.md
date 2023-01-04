@@ -45,11 +45,11 @@ Architecture Diagram
 
 Figure : Serial Computing
 
-images/image2.png
+![alt text](images/image2.png)
 
 Figure : Parallel Computing (v1)
 
-images/image3.png
+![alt text](images/image3.png)
 
 ## Hardware Implementation
 
@@ -77,9 +77,9 @@ Speedup (Version 1)	1.365534854
 Speedup (Version 2)	2.424343597
 Efficiency (Version 1)	17.06918568
 Efficiency (Version 2)	30.30429496
-images/image4.png
+![alt text](images/image4.png)
 
-images/image5.png
+![alt text](images/image5.png)
 
 Figure : Results – Speedup Figure : Results – Efficiency
 
@@ -93,9 +93,9 @@ In terms of efficiency, the first parallel version had an efficiency of 17.06%, 
 
 These results suggest that using embarrassingly parallel computing can be an effective way to improve the performance of person detection algorithms and potentially reduce the time and computational resources required for such tasks.
 
-images/image7.jpeg
+![alt text](images/image7.png)
 
-images/image8.jpeg
+![alt text](images/image8.png)
 
 Figure : Original Frame Figure : Detected Frame
 
