@@ -40,7 +40,7 @@ python3 main_s.py
 To run person detection using parallel (v1 and v2), use the command:
 
 python3 main_v1.py
-# or
+or
 python3 main_v2.py
 Methodology
 
