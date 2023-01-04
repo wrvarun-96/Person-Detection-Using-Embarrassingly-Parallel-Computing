@@ -21,11 +21,6 @@ Pillow
 SciPy
 H5py
 Matplotlib
-Running the Code
-
-git clone git@github.com:Pradyothsp/person-detection-using-embarrassingly-parallel-computating.git
-cd person-detection-using-embarrassingly-parallel-computating
-Next, download pre-trained model from here, and place it in a folder model.
 
 Create folder media and other folders like shown below:
 
