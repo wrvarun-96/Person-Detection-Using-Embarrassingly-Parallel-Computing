@@ -41,7 +41,7 @@ Methodology
 
 Architecture Diagram
 
-images/image1.png
+https://github.com/wrvarun-96/Person-Detection-Using-Embarrassingly-Parallel-Computing/blob/main/images/image1.png/image1.png
 
 Figure : Serial Computing
 
