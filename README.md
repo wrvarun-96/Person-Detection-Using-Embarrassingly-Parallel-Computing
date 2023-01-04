@@ -93,9 +93,9 @@ In terms of efficiency, the first parallel version had an efficiency of 17.06%, 
 
 These results suggest that using embarrassingly parallel computing can be an effective way to improve the performance of person detection algorithms and potentially reduce the time and computational resources required for such tasks.
 
-![alt text](images/image7.png)
+![alt text](images/image7.jpeg)
 
-![alt text](images/image8.png)
+![alt text](images/image8.jpeg)
 
 Figure : Original Frame Figure : Detected Frame
 
